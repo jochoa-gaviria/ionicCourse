@@ -1,0 +1,7 @@
+{
+  "name": "visioTemplate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
